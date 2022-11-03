@@ -3,10 +3,11 @@
 }
 
 .primeira {
-	width: 400px;
-	height: 400px;
 	background-color: purple;
-	
+	height: 400px;
+	position: fixed;
+	width: 400px;
+		
 }
 
 .segunda {
